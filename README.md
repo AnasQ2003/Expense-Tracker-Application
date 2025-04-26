@@ -1,2 +1,3 @@
 # Expense-Tracker-Application
-This is an expense tracker project built by using python language on pycharm and use some data science libraries 
+This is an expense tracker project built by using python language on pycharm and use some data science libraries.
+This Expense Tracker is a complete, functional, and well-structured desktop application built using Python and Tkinter. It provides essential features for managing daily expenses and visualizing spending patterns. The use of CSV files for storage makes it lightweight, while the integration of charts adds significant analytical value. It's a perfect example of a real-world utility project that demonstrates core programming and GUI design skills in Python.
