@@ -14,7 +14,7 @@
 
 ## 🌟 Overview
 
-The **Advanced Expense Tracker** is a complete, functional desktop utility application developed as part of the **BiStartX** Python curriculum (Month 03). It helps users take control of their personal finance by logging daily expenditures, storing data locally, and displaying spending breakdowns.
+The **Advanced Expense Tracker** is a complete, functional desktop utility application developed. It helps users take control of their personal finance by logging daily expenditures, storing data locally, and displaying spending breakdowns.
 
 The application utilizes **CSV files** as a lightweight, serverless database to persist records. It integrates `tkcalendar.DateEntry` to prevent invalid formatting errors on date inputs. The key analytical highlight is the **Visual Report Engine**, which loads raw data from the CSV, aggregates it using a `defaultdict`, and renders a side-by-side **Pie Chart** (percentage distribution by category) and a **Bar Chart** (monthly spending trends) in a unified Matplotlib canvas.
 
@@ -160,7 +160,7 @@ The application window will open immediately, auto-generating an `expenses.csv` 
 
 ---
 
-## 🧠 Learning Objectives (BiStartX Month 3)
+## 🧠 Learning Objectives
 
 > ✅ **Objective**: Build a real-world, complete utility application that integrates data science visualizers (Matplotlib) with local storage structures (CSV File I/O) and advanced widget controls (calendar date pickers).
 
