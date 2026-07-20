@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💸 Advanced Expense Tracker Application
 
 > A feature-rich, desktop expense manager built with Python and Tkinter, featuring local CSV persistence, calendar date selection, and side-by-side analytical reports (Pie and Bar charts) using Matplotlib.
@@ -9,6 +11,8 @@
 [![Matplotlib](https://img.shields.io/badge/Data_Viz-Matplotlib-11557c.svg?style=flat-square&logo=python)](https://matplotlib.org/)
 [![CSV Storage](https://img.shields.io/badge/Database-CSV-4CAF50.svg?style=flat-square)](https://docs.python.org/3/library/csv.html)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+
+</div>
 
 ---
 
@@ -184,7 +188,7 @@ The application window will open immediately, auto-generating an `expenses.csv` 
 ```
 MIT License
 
-Copyright (c) Expense Tracker Application---2026 AnasQ2003
+Copyright (c) Expense Tracker Application --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -214,10 +218,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
   
  <div align="center">
 
-Made with 💧 and a lot of ☕
+Made with a lot of ☕
 
 **⭐ If you found this useful, please star the repository!**
-
-*Stay hydrated. Stay healthy.*
 
 </div>
